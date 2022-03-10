@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-
-void main()
+/* This function return string */
+int main(void)
 {
 	char str[100];
 
