@@ -3,7 +3,6 @@
 
 /**
  * main - return string
- * Description: use puts function to print screen. 
  * Return: 1 if the puts function is true
  */
 int main(void)
