@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int main()
+void main()
 {
 	char str[100];
 
