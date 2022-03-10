@@ -3,10 +3,7 @@
 
 /**
  * main - return string
- * @parameterx: Description of parameter x
-(* a blank line
  * Description: use puts function to print screen. 
-(* section header: Section description)*
  * Return: 1 if the puts function is true
  */
 int main(void)
