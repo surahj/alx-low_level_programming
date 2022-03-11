@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-		printf("Last digit of %d is %d and is greater than 5", n, lastDigit);
-	}
+	int letter;
+
 	for (letter = 'a'; letter <= 'z'; letter++)
 		putchar(letter);
 	putchar('\n');
-
+}
