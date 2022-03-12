@@ -7,8 +7,8 @@
  */
 int main(void)
 {
-	unsigned char i;
-	unsigned char j;
+	unsigned int i;
+	unsigned int j;
 
 	for (i = 0; i <= 9; i++)
 	{
