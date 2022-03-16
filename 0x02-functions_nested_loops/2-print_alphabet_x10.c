@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- *print_alphabet-print letter
+ *print_alphabet_x10 - print letter
  *Description: print letter a-z 10 times
- *Return: nothing
+ *Return: 0 success
  */
 
 void print_alphabet_x10(void)
