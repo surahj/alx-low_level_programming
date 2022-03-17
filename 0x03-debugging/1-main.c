@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 /**
- * * main - causes an infinite loop
- * * Return: 0
- * */
+ *main - causes an infinite loop
+ *Description: comment out infinite loop
+ *Return: 0
+ */
 
 int main(void)
 {
@@ -11,11 +12,14 @@ int main(void)
 
 	printf("Infinite loop incoming :(\n");
 	i = 0;
-
-/**	while (i < 10)
-	{
-		putchar(i)
-	}
+/**
+*Description: while will be an infinite loop
+*\\o//: indicate where infinite loop is avioded
+*
+*	while (i < 10)
+*	{
+*		putchar(i)
+*	}
 */
 	printf("Infinite loop avoided! \\o/\n");
 
