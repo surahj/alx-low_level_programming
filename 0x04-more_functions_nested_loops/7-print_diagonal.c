@@ -5,7 +5,6 @@
  * @n: numner of times diagonal will be printed
  * return: 0 always
  */
-
 void print_diagonal(int n)
 {
 	int len, space;
@@ -22,15 +21,7 @@ void print_diagonal(int n)
 				continue;
 
 			_putchar('\n');
-<<<<<<< HEAD
-
-		_putchar('\\');
-		_putchar(' ');
-		_putchar('\n');
-		_putchar('A');
-=======
 		}
->>>>>>> 93e106453dc37e5338ac8f0d6903c92fdaa6d8ea
 	}
 
 	_putchar('\n');
