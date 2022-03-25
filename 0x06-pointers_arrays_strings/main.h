@@ -13,4 +13,5 @@ void print_number(int n);
 char *leet(char *str);
 int _putchar(char c);
 void print_buffer(char *b, int size);
+char *rot13(char *);
 #endif
