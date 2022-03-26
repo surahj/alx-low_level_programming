@@ -9,8 +9,9 @@ In this project, I learned
 - How to find the right header to include in your source code when using a standard library function
 - How does the main function influence the return value of the program
 
-## 0. Write a script that runs a C file through the preprocessor and save the result into another file.
+## TASK
 
+### 0. Write a script that runs a C file through the preprocessor and save the result into another file.
 The C file name will be saved in the variable $CFILE
 The output should be saved in the file c
 - File: 0-preprocessor
