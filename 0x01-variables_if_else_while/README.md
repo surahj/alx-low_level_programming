@@ -40,6 +40,44 @@ In this project, I learned about using arithmetic, logical, relational, and bool
 - You can only use putchar twice in your code
 - File: [2-print_alphabet.c](2-print_alphabet.c)
 
+### 3. Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+- You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+- All your code should be in the main function
+- You can only use putchar three times in your code
+- File: [3-print_alphabets.c](3-print_alphabets.c)
+
+### 4. Write a program that prints the alphabet in lowercase, followed by a new line.
+
+- Print all the letters except q and e
+- You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+- All your code should be in the main function
+- You can only use putchar twice in your code
+- File: [4-print_alphabt.c](4-print_alphabt.c)
+
+### 5. Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
+- All your code should be in the main function
+- File: [5-print_numbers.c](5-print_numbers.c)
+
+### 6. Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
+- You are not allowed to use any variable of type char
+- You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+- You can only use putchar twice in your code
+- All your code should be in the main function
+- File: [6-print_numberz.c](6-print_numberz.c)
+
+### 7. Write a program that prints the lowercase alphabet in reverse, followed by a new line.
+
+- You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+- All your code should be in the main function
+- You can only use putchar twice in your code
+- File: [7-print_tebahpla.c](7-print_tebahpla.c)
+
+
+
+
 
 
 
