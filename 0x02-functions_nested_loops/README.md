@@ -15,4 +15,10 @@ In this project, I learned:
 - The program should return 0
 - File: [0-putchar.c](0-putchar.c)
 
+#### 1. Write a function that prints the alphabet, in lowercase, followed by a new line.
+
+- Prototype: void print_alphabet(void);
+- You can only use _putchar twice in your code
+- File: [1-alphabet.c](1-alphabet.c)
+
 
