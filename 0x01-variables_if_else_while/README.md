@@ -33,5 +33,13 @@ In this project, I learned about using arithmetic, logical, relational, and bool
    - followed by a new line
    - File: [1-last_digit.c](1-last_digit.c)
 
+### 2. Write a program that prints the alphabet in lowercase, followed by a new line.
+
+- You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+- All your code should be in the main function
+- You can only use putchar twice in your code
+- File: [2-print_alphabet.c](2-print_alphabet.c)
+
+
 
 
