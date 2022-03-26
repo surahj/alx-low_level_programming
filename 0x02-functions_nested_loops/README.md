@@ -35,5 +35,31 @@ In this project, I learned:
 - FYI: The standard library provides a similar function: islower. Run man islower to learn more.
 - File: [3-islower.c](3-islower.c)
 
+### 4. Write a function that checks for alphabetic character.
+
+- Prototype: int _isalpha(int c);
+- Returns 1 if c is a letter, lowercase or uppercase
+- Returns 0 otherwise
+- FYI: The standard library provides a similar function: isalpha. Run man isalpha to learn more.
+- File: [4-isalpha.c](4-isalpha)
+
+#### 5. Write a function that prints the sign of a number.
+
+- Prototype: int print_sign(int n);
+- Returns 1 and prints + if n is greater than zero
+- Returns 0 and prints 0 if n is zero
+- Returns -1 and prints - if n is less than zero
+- File: [5-sign.c](5-sign.c)
+
+#### 6. Write a function that computes the absolute value of an integer.
+
+- Prototype: int _abs(int);
+- FYI: The standard library provides a similar function: abs. Run man abs to learn more.
+- File: [6-abs.c](6-abs.c)
+
+
+
+
+
 
 
