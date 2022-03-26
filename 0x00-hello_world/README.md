@@ -1,6 +1,6 @@
 # C - Hello, World
 
-In this project, i learned
+In this project, I learned
 - How to print text using printf, puts and putchar
 - How to get the size of a specific type using the unary operator sizeof
 - How to compile using gcc
@@ -9,11 +9,11 @@ In this project, i learned
 - How to find the right header to include in your source code when using a standard library function
 - How does the main function influence the return value of the program
 
-0. Write a script that runs a C file through the preprocessor and save the result into another file.
+## 0. Write a script that runs a C file through the preprocessor and save the result into another file.
 
 The C file name will be saved in the variable $CFILE
 The output should be saved in the file c
-File: 0-preprocessor
+- File: 0-preprocessor
 
 1. Write a script that compiles a C file but does not link.
 
