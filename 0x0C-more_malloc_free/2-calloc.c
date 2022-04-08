@@ -10,13 +10,21 @@
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	void *ptr;
+	char *set_mem;
+	unsigned int i;
 
 	if (size == 0 || nmemb == 0)
 		return (0);
 
 	ptr = malloc(nmemb * size);
-	
+
 	if (ptr == NULL)
 		return (NULL);
+
+	set_mem = ptr;
+
+	for (i = 0; i < (nmemb * size); i++)
+		set_mem[i] = '\0';
+
 	return (ptr);
 }
