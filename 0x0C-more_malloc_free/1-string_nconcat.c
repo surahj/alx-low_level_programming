@@ -30,13 +30,15 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	if (ptr == NULL)
 		return (NULL);
 
+	j = 0;
+
 	for (i = 0; i < len1; i++)
-		ptr[i] = s1[i];
+		ptr[j++] = s1[i];
 
 	for (i = 0; s2[i] && i < n; i++)
-		ptr[len1 + i] = s2[i];
+		ptr[j++] = s2[i];
 
-	ptr[len1 + len2] = '\0';
+	ptr[j] = '\0';
 	return (ptr);
 }
 
