@@ -18,7 +18,7 @@ typedef struct printer
 	char *symbol;
 	void (*print)(va_list arg);
 
-} printer_t
+} printer_t;
 
 void print_char(va_list arg);
 void print_int(va_list arg);
