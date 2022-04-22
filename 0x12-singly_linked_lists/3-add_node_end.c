@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * add_node_eend - adds a new node at the beginning of a list_t list
+ * add_node_end - adds a new node at the beginning of a list_t list
  * @head: pointer to pointer of the head
  * @str: string to add
  * Return: address of the new element
