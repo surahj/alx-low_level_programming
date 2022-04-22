@@ -5,7 +5,7 @@
 /**
  * add_node - adds a new node at the beginning of a list_t list
  * @head: pointer to pointer of the head
- * str: string to add
+ * @str: string to add
  * Return: address of the new element
  */
 
