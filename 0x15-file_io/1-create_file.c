@@ -28,6 +28,7 @@ int create_file(const char *filename, char *text_content)
 			len++;
 	}
 
+	fd = open(filename, O_RDWR | O_CREAT | O_TRUNC, 00600);
 	_write = write(fd, text_content, len);
 
 	if (fd < 0 || _write < 0)
